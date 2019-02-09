@@ -1,0 +1,7 @@
+{
+  "name": "sisumakerTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
